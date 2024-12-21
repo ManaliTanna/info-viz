@@ -1,14 +1,15 @@
 # info-viz
 Information Visualization with Python and Vega-Altair
 
-## Project Overview
+## Overview
 
 This repository contains a collection of Jupyter notebooks exploring data visualization techniques using Python and Vega-Altair. The project focuses on analyzing and visualizing a dataset through various data analysis techniques and culminates in a final project with an accompanying poster.
 
-## Contents
 
-- **Exploratory Notebooks**: A series of Jupyter notebooks demonstrating different visualizations.
-- **Final Project and Poster**: A comprehensive notebook showcasing the complete analysis and visualization of the dataset. A visual summary of the project findings and key visualizations.
+## Final Project and Poster
+The final project showcases the complete analysis and interactive visualization of the H1B Visa dataset. The poster represents visual summary of the project findings and key visualizations.
+
+![](image.png)
 
 ## Getting Started
 
